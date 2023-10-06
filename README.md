@@ -1,5 +1,15 @@
 # filament-scroll-top
 ## Filament project for debugging wizard scroll to top problem
+
+The branch with the filament code is master. (Sorry, 1st time using github repositories)
+
+In the .env file change:
+
+```
+DB_CONNECTION=sqlite
+DB_DATABASE=/path/to/db.sqlite
+```
+
 Access using user `jd@fakedomain.com`, password `abc123`.
 
 Click on resource Tests and create a new test.
